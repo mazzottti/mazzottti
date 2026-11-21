@@ -1,0 +1,23 @@
+# Cards do README, veja https://github.com/pedrocatalao/github-cool-readme
+show: [about, languages, summary, weekly, streaks]
+
+look:
+  style: classic
+  color: github
+  border: true
+
+cards:
+  about:
+    title: Sobre
+    headline: "Oi, eu sou *Felipe*"
+    lines:
+      - "Não sigo padrões. Entendo por que existem."
+    facts:
+      Stack: Go · TypeScript · Vue
+      No GitHub: desde 2021
+  languages:
+    title: Linguagens mais usadas
+  weekly:
+    title: Ritmo semanal
+  streaks:
+    title: Sequências
